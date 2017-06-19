@@ -3,6 +3,8 @@ An AIR APP to easy preview your Atlas / Assets inside of Starling (just drag &am
 
 ## AIR app, just install the .AIR file and use!
 
+![Alt text](/img/assetsPreview.PNG?raw=true "Optional Title")
+
 The purpose of this is to allow the developers to EASY preview your assets IN-GAME, inside the Starling Framwork, so you can see what is happening behind the scenes!
 
 Features:
